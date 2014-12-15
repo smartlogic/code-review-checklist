@@ -29,3 +29,11 @@ pull request, so watch this repository for changes.
   production traffic.
 
   If there is not a production environment, don't worry about it.
+
+## Infrastructure and Dependency Changes
+
+- [ ] Is the documentation still correct?
+
+  Would a new developer be able to get up and running? Will existing developers
+  need to install new dependencies? If so, will it be immediately obvious what
+  they need, and how they can get it?
