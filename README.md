@@ -32,6 +32,10 @@ pull request, so watch this repository for changes.
 
   If there is not a production environment, don't worry about it.
 
+- [ ] Will this change affect sample data?
+
+  Does the migration a new fields, new models, or remove/change existing fields? If the application uses database seeding or has a sample dataset in the form of a database dump or script, update these items to reflect the new state of the database. Also ensure that running the script, importing the database dump, or running the database seeds from an empty database can be executed successfully after this change.
+  
 ### User Experience
 
 - [ ] Does this change meet all of the requirements (as specified in the Pivotal story and other sources)? When previewing the change, does it meet both the letter and spirit of the requirements?
